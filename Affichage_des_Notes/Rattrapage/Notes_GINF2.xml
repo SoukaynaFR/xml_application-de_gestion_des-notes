@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Note class="GINF2">
+   <Modules>
+      <Module code="GINF33">
+         <Students>
+            <Student CNE="D256618" APOGEE="20001564">
+               <firstName>ABDELOUAHED</firstName>
+               <lastName>ABBAD</lastName>
+               <email>abdelouahed.abbad@etu.uae.ac.ma</email>
+               <moyenne>8.25</moyenne>
+            </Student>
+            <Student CNE="D363371" APOGEE="19001797">
+               <firstName>SOFIANE</firstName>
+               <lastName>ABDELOUAHAB</lastName>
+               <email>sofiane.abdelouahab@etu.uae.ac.ma</email>
+               <moyenne>7.25</moyenne>
+            </Student>
+            <Student CNE="K381890" APOGEE="20001212">
+               <firstName>KENZA</firstName>
+               <lastName>ABOU-EL KASEM</lastName>
+               <email>kenza.abouelkasem@etu.uae.ac.ma</email>
+               <moyenne>10.5</moyenne>
+            </Student>
+            <Student CNE="D384255" APOGEE="20001374">
+               <firstName>AYA</firstName>
+               <lastName>AHMYTTOU</lastName>
+               <email>aya.ahmyttou@etu.uae.ac.ma</email>
+               <moyenne>16.75</moyenne>
+            </Student>
+            <Student CNE="M516734" APOGEE="20001325">
+               <firstName>IBTISSAM</firstName>
+               <lastName>AIDOUN</lastName>
+               <email>ibtissam.aidoun@etu.uae.ac.ma</email>
+               <moyenne>6.25</moyenne>
+            </Student>
+            <Student CNE="M658894" APOGEE="20001879">
+               <firstName>TAREK</firstName>
+               <lastName>AL AZAMI</lastName>
+               <email>tarek.alazami@etu.uae.ac.ma</email>
+               <moyenne>7.25</moyenne>
+            </Student>
+            <Student CNE="L276168" APOGEE="19001303">
+               <firstName>ELARBI</firstName>
+               <lastName>ALLAM</lastName>
+               <email>elarbi.allam@etu.uae.ac.ma</email>
+               <moyenne>9.5</moyenne>
+            </Student>
+            <Student CNE="K302752" APOGEE="20001336">
+               <firstName>AYMANE</firstName>
+               <lastName>ARIB</lastName>
+               <email>aymane.arib@etu.uae.ac.ma</email>
+               <moyenne>13.25</moyenne>
+            </Student>
+            <Student CNE="M139839" APOGEE="20001924">
+               <firstName>NORELIMANE</firstName>
+               <lastName>AZZMAN</lastName>
+               <email>norelimane.azzman@etu.uae.ac.ma</email>
+               <moyenne>17.75</moyenne>
+            </Student>
+            <Student CNE="K592518" APOGEE="20001533">
+               <firstName>CHAIMAE</firstName>
+               <lastName>AZZOUZ</lastName>
+               <email>chaimae.azzouz@etu.uae.ac.ma</email>
+               <moyenne>3.25</moyenne>
+            </Student>
+            <Student CNE="K641585" APOGEE="19001355">
+               <firstName>AHLAM</firstName>
+               <lastName>BEN IMRAN</lastName>
+               <email>ahlam.benimran@etu.uae.ac.ma</email>
+               <moyenne>6.25</moyenne>
+            </Student>
+            <Student CNE="M274170" APOGEE="20001306">
+               <firstName>ABDELILAH</firstName>
+               <lastName>BENCHINE</lastName>
+               <email>abdelilah.benchine@etu.uae.ac.ma</email>
+               <moyenne>2.5</moyenne>
+            </Student>
+            <Student CNE="D225952" APOGEE="20001627">
+               <firstName>ANAS</firstName>
+               <lastName>BENMGUIRIDA</lastName>
+               <email>anas.benmguirida@etu.uae.ac.ma</email>
+               <moyenne>12.25</moyenne>
+            </Student>
+            <Student CNE="D432760" APOGEE="20001847">
+               <firstName>AMINE</firstName>
+               <lastName>BERKOUKT</lastName>
+               <email>amine.berkoukt@etu.uae.ac.ma</email>
+               <moyenne>17.25</moyenne>
+            </Student>
+            <Student CNE="M478144" APOGEE="19001321">
+               <firstName>ABDELLAH</firstName>
+               <lastName>BIGAGANE</lastName>
+               <email>abdelallah.bigagane@etu.uae.ac.ma</email>
+               <moyenne>15.75</moyenne>
+            </Student>
+            <Student CNE="K683389" APOGEE="19001669">
+               <firstName>SAFAA</firstName>
+               <lastName>BOUHNINE</lastName>
+               <email>safaa.bouhnine@etu.uae.ac.ma</email>
+               <moyenne>5.5</moyenne>
+            </Student>
+            <Student CNE="D732968" APOGEE="19001644">
+               <firstName>MOHAMMED</firstName>
+               <lastName>BOUKER</lastName>
+               <email>mohammed.bouker@etu.uae.ac.ma</email>
+               <moyenne>6.75</moyenne>
+            </Student>
+            <Student CNE="K648817" APOGEE="19001568">
+               <firstName>YASSER</firstName>
+               <lastName>BOULERBAH</lastName>
+               <email>yasser.boulerbah@etu.uae.ac.ma</email>
+               <moyenne>8.5</moyenne>
+            </Student>
+            <Student CNE="K468450" APOGEE="20001865">
+               <firstName>MOHAMMED</firstName>
+               <lastName>BOUNOUAR</lastName>
+               <email>mohammed.bounouar@etu.uae.ac.ma</email>
+               <moyenne>9.5</moyenne>
+            </Student>
+            <Student CNE="L419941" APOGEE="19001704">
+               <firstName>MERYEME</firstName>
+               <lastName>BOUSSAID</lastName>
+               <email>meryeme.boussaid@etu.uae.ac.ma</email>
+               <moyenne>11.25</moyenne>
+            </Student>
+            <Student CNE="D957260" APOGEE="20001782">
+               <firstName>SOUHAIL</firstName>
+               <lastName>CHAIBERRAS</lastName>
+               <email>souhail.chaiberras@etu.uae.ac.ma</email>
+               <moyenne>3.25</moyenne>
+            </Student>
+            <Student CNE="L394423" APOGEE="19001335">
+               <firstName>HOUSSAM</firstName>
+               <lastName>CHERKI</lastName>
+               <email>houssam.cherki@etu.uae.ac.ma</email>
+               <moyenne>12.25</moyenne>
+            </Student>
+            <Student CNE="K654264" APOGEE="19001773">
+               <firstName>MOAD</firstName>
+               <lastName>DAHBI</lastName>
+               <email>moad.dahbi@etu.uae.ac.ma</email>
+               <moyenne>17.25</moyenne>
+            </Student>
+            <Student CNE="D243299" APOGEE="19001633">
+               <firstName>IMAD</firstName>
+               <lastName>ECHCHRIKI</lastName>
+               <email>imad.echchriki@etu.uae.ac.ma</email>
+               <moyenne>2.25</moyenne>
+            </Student>
+            <Student CNE="L209287" APOGEE="19001661">
+               <firstName>EL MEHDI</firstName>
+               <lastName>EL ADNANI</lastName>
+               <email>elmehdi.eldnani@etu.uae.ac.ma</email>
+               <moyenne>6.75</moyenne>
+            </Student>
+            <Student CNE="D921111" APOGEE="20000755">
+               <firstName>ACHRAF</firstName>
+               <lastName>EL AIDI IDRISSI</lastName>
+               <email>achraf.elaidiidrissi@etu.uae.ac.ma</email>
+               <moyenne>12.5</moyenne>
+            </Student>
+            <Student CNE="K606394" APOGEE="20001732">
+               <firstName>OUAAIL</firstName>
+               <lastName>EL AOUAD</lastName>
+               <email>ouail.elaouad@etu.uae.ac.ma</email>
+               <moyenne>7.75</moyenne>
+            </Student>
+            <Student CNE="L185221" APOGEE="19001509">
+               <firstName>MALAK</firstName>
+               <lastName>EL BAKALI</lastName>
+               <email>malak.elbakali@etu.uae.ac.ma</email>
+               <moyenne>5.75</moyenne>
+            </Student>
+         </Students>
+      </Module>
+   </Modules>
+</Note>

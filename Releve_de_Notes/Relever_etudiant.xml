@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><etudiant CIN="k571080" CNE="K571080" code_apogée="20000755">
+        <Nom>EL HARRACHY</Nom>
+        <Prénom>ABDERRAHMANE</Prénom>
+        <Lieu_Naissance>TANGER</Lieu_Naissance>
+        <Date_Naissance>
+            <day>27</day>
+            <month>04</month>
+            <year>2002</year>
+        </Date_Naissance>
+        <NOTES>
+            <note module_code="GINF31" module_name="Programation Orientée Objet &amp; XML">
+                <note_elm elm_name="Programation Orientée Objet : Java" poid="1">20.0</note_elm>
+                <note_elm elm_name="XML" poid="1">17.0</note_elm>
+            </note>
+            <note module_code="GINF32" module_name="Qualité &amp; approche processus">
+                <note_elm elm_name="Assurance contrôle qualité (ISO 9001)" poid="1">11.0</note_elm>
+                <note_elm elm_name="Cycle de Vie Logiciel et Méthodes agiles" poid="1">11.0</note_elm>
+                <note_elm elm_name="Maitrise et optimisation des processus" poid="1">14.0</note_elm>
+            </note>
+            <note module_code="GINF33" module_name="Modelisation orientée objet et IHM">
+                <note_elm elm_name="Modelisation orientée objet UML" poid="1">11.0</note_elm>
+                <note_elm elm_name="IHM" poid="1">18.0</note_elm>
+                <note_elm elm_name="Cycle de Vie logiciel" poid="1">16.0</note_elm>
+            </note>
+            <note module_code="GINF34" module_name="Bases de données avancées 1">
+                <note_elm elm_name="Optimisation et Qualité de Base de données" poid="1">20.0</note_elm>
+                <note_elm elm_name="Administration et Sécurité des Bases de données" poid="1">14.0</note_elm>
+                <note_elm elm_name="Base de données NoSQL" poid="1">16.0</note_elm>
+            </note>
+            <note module_code="GINF35" module_name="Administration et programmation système">
+                <note_elm elm_name="Administration systèmes" poid="1">10.0</note_elm>
+                <note_elm elm_name="Programmation systèmes" poid="1">10.0</note_elm>
+            </note>
+            <note module_code="GINF36" module_name="Langue &amp; communication">
+                <note_elm elm_name="Espagnol 2 &amp; Allemand" poid="1">20.0</note_elm>
+                <note_elm elm_name="Anglais professionnel" poid="1">18.0</note_elm>
+                <note_elm elm_name="Technique de communication" poid="1">12.0</note_elm>
+            </note>
+            <note module_code="GINF41" module_name="Technologies distribuées">
+                <note_elm elm_name="Introduction à J2EE" poid="1">15.0</note_elm>
+                <note_elm elm_name="Programmation en C#" poid="1">15.0</note_elm>
+            </note>
+            <note module_code="GINF42" module_name="Basesnde données avancées 2 &amp; Cloud">
+                <note_elm elm_name="Gestion des données complexes" poid="1">13.0</note_elm>
+                <note_elm elm_name="Gestion des données distribuées" poid="1">16.0</note_elm>
+                <note_elm elm_name="Cloud Computing &amp; Infogérance" poid="1">20.0</note_elm>
+            </note>
+            <note module_code="GINF43" module_name="Traitement de l'image">
+                <note_elm elm_name="Traitement de l'image" poid="1">13.0</note_elm>
+                <note_elm elm_name="Vision numérique" poid="1">20.0</note_elm>
+                <note_elm elm_name="Processus stochastique" poid="1">15.0</note_elm>
+            </note>
+            <note module_code="GINF44" module_name="Programat déclarative et Techniques algorithmiques Avancées">
+                <note_elm elm_name="Programmation déclarative" poid="1">17.0</note_elm>
+                <note_elm elm_name="Technique algorithmique avancée" poid="1">11.0</note_elm>
+            </note>
+            <note module_code="GINF45" module_name="Sécurité &amp; cryptographie">
+                <note_elm elm_name="Sécurité des systemes" poid="1">17.0</note_elm>
+                <note_elm elm_name="Cryptographie" poid="1">20.0</note_elm>
+            </note>
+            <note module_code="GINF46" module_name="Management de l'entreprise 2">
+                <note_elm elm_name="Economie 2 &amp; comptabilité 2" poid="1">15.0</note_elm>
+                <note_elm elm_name="Projet collectif &amp; stage" poid="1">17.0</note_elm>
+                <note_elm elm_name="Management de Projet" poid="1">15.0</note_elm>
+            </note>
+        </NOTES>
+    </etudiant>

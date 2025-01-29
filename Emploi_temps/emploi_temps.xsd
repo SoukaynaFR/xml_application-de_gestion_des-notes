@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://example.com"
+           xmlns="http://example.com"
+           elementFormDefault="qualified">
+
+  <xs:element name="semaine">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="lundi">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="séance" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="module" type="xs:string"/>
+                    <xs:element name="Professeur" type="xs:string"/>
+                    <xs:element name="salle" type="xs:string"/>
+                  </xs:sequence>
+                  <xs:attribute name="debut" type="xs:string" use="required"/>
+                  <xs:attribute name="fin" type="xs:string" use="required"/>
+                  <xs:attribute name="type" type="xs:string" use="required"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="date" type="xs:string" use="required"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="mardi">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="séance" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="module" type="xs:string"/>
+                    <xs:element name="Professeur" type="xs:string"/>
+                    <xs:element name="salle" type="xs:string"/>
+                  </xs:sequence>
+                  <xs:attribute name="debut" type="xs:string" use="required"/>
+                  <xs:attribute name="fin" type="xs:string" use="required"/>
+                  <xs:attribute name="type" type="xs:string" use="required"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="date" type="xs:string" use="required"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="mercredi">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="séance" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="module" type="xs:string"/>
+                    <xs:element name="Professeur" type="xs:string"/>
+                    <xs:element name="salle" type="xs:string"/>
+                  </xs:sequence>
+                  <xs:attribute name="debut" type="xs:string" use="required"/>
+                  <xs:attribute name="fin" type="xs:string" use="required"/>
+                  <xs:attribute name="type" type="xs:string" use="required"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="date" type="xs:string" use="required"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="jeudi">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="séance" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="module" type="xs:string"/>
+                    <xs:element name="Professeur" type="xs:string"/>
+                    <xs:element name="salle" type="xs:string"/>
+                  </xs:sequence>
+                  <xs:attribute name="debut" type="xs:string" use="required"/>
+                  <xs:attribute name="fin" type="xs:string" use="required"/>
+                  <xs:attribute name="type" type="xs:string" use="required"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="date" type="xs:string" use="required"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="vendredi">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="séance" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="module" type="xs:string"/>
+                    <xs:element name="Professeur" type="xs:string"/>
+                    <xs:element name="salle" type="xs:string"/>
+                  </xs:sequence>
+                  <xs:attribute name="debut" type="xs:string" use="required"/>
+                  <xs:attribute name="fin" type="xs:string" use="required"/>
+                  <xs:attribute name="type" type="xs:string" use="required"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="date" type="xs:string" use="required"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="samedi">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="séance" maxOccurs="unbounded">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="module" type="xs:string"/>
+                      <xs:element name="Professeur" type="xs:string"/>
+                      <xs:element name="salle" type="xs:string"/>
+                    </xs:sequence>
+                    <xs:attribute name="debut" type="xs:string" use="required"/>
+                    <xs:attribute name="fin" type="xs:string" use="required"/>
+                    <xs:attribute name="type" type="xs:string" use="required"/>
+                  </xs:complexType>
+                </xs:element>
+              </xs:sequence>
+              <xs:attribute name="date" type="xs:string" use="required"/>
+            </xs:complexType>
+          </xs:element>
+        <!-- ... Répéter pour mardi, mercredi, jeudi, vendredi, samedi -->
+      </xs:sequence>
+      <xs:attribute name="annee" type="xs:string" use="required"/>
+      <xs:attribute name="num" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

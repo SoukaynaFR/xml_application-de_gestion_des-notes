@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<fop version="1.0">
+    <renderers>
+        <renderer mime="application/pdf">
+            <fonts>
+
+                <font embed-url="../fonts/zapfdingbats.ttf">
+                    <font-triplet name="ZapfDingbats" style="normal" weight="700"/>
+                </font>
+
+                <font embed-url="../fonts/symbol.ttf">
+                    <font-triplet name="Symbol" style="normal" weight="700"/>
+                </font>
+
+                <font embed-url="../fonts/roboto.ttf">
+                    <font-triplet name="Roboto" style="normal" weight="400"/>
+                </font>
+
+                <font embed-url="../fonts/noto.ttf">
+                    <font-triplet name="Noto" style="normal" weight="400"/>
+                </font>
+
+                <font embed-url="../fonts/naskh.ttf">
+                    <font-triplet name="Naskh" style="normal" weight="400"/>
+                </font>
+
+                <font embed-url="../fonts/roboto-bold.ttf">
+                    <font-triplet name="Roboto" style="normal" weight="700"/>
+                </font>
+
+            </fonts>
+        </renderer>
+    </renderers>
+    <base>../templates</base>
+</fop>

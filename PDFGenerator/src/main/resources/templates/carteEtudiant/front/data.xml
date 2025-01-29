@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card>
+   <logoUae uri="logoUae.png"/>
+   <nameUae>Université Abdelmalek Essaâdi</nameUae>
+   <nameSchool>Ecole Nationale des Sciences Appliquées</nameSchool>
+   <villeSchool>Tanger</villeSchool>
+   <logoEnsa uri="ensa.png"/>
+   <title>CARTE D'ETUDIANT</title>
+   <lastName>GLIOUAL</lastName>
+   <firstName>YASSINE</firstName>
+   <codeApoge>19001661</codeApoge>
+   <photo uri="photo-default.jpg"/>
+   <scanBar uri="scanbar.png"/>
+   <footer>Première Inscription : 2020 / 2021</footer>
+</card>

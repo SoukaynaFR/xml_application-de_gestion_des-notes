@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://GINF2AttestaionReussite.org"
+           xmlns="http://GINF2AttestaionReussite.org"
+           elementFormDefault="qualified">
+
+  <xs:element name="attes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="royaumefr" type="xs:string"/>
+        <xs:element name="nameUaefr" type="xs:string"/>
+        <xs:element name="nameSchoolfr" type="xs:string"/>
+        <xs:element name="villeSchoolfr" type="xs:string"/>
+        <xs:element name="logoEnsa">
+          <xs:complexType>
+            <xs:attribute name="uri" type="xs:string" use="required"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="royaumeAr">
+          <xs:complexType>
+            <xs:simpleContent>
+              <xs:extension base="xs:string">
+                <xs:attribute name="lang" type="xs:string" use="required"/>
+                <xs:attribute name="direction" type="xs:string" use="required"/>
+              </xs:extension>
+            </xs:simpleContent>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="nameUaeAr">
+          <xs:complexType>
+            <xs:simpleContent>
+              <xs:extension base="xs:string">
+                <xs:attribute name="lang" type="xs:string" use="required"/>
+                <xs:attribute name="direction" type="xs:string" use="required"/>
+              </xs:extension>
+            </xs:simpleContent>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="nameSchoolAr">
+          <xs:complexType>
+            <xs:simpleContent>
+              <xs:extension base="xs:string">
+                <xs:attribute name="lang" type="xs:string" use="required"/>
+                <xs:attribute name="direction" type="xs:string" use="required"/>
+              </xs:extension>
+            </xs:simpleContent>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="villeSchoolAr">
+          <xs:complexType>
+            <xs:simpleContent>
+              <xs:extension base="xs:string">
+                <xs:attribute name="lang" type="xs:string" use="required"/>
+                <xs:attribute name="direction" type="xs:string" use="required"/>
+              </xs:extension>
+            </xs:simpleContent>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="title" type="xs:string"/>
+        <xs:element name="body">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="header" type="xs:string"/>
+              <xs:element name="infoEtudiant">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="nom" type="xs:string"/>
+                    <xs:element name="naissance" type="xs:string"/>
+                    <xs:element name="message" type="xs:string"/>
+                    <xs:element name="nivAdmis" type="xs:string"/>
+                    <xs:element name="annee" type="xs:string"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="footer">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="date" type="xs:string"/>
+              <xs:element name="Signature" type="xs:string"/>
+              <xs:element name="CodeApogeName" type="xs:string"/>
+              <xs:element name="CodeApoge" type="xs:string"/>
+              <xs:element name="avis" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>

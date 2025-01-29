@@ -1,0 +1,34 @@
+<!ELEMENT attes (royaumefr, nameUaefr, nameSchoolfr, villeSchoolfr, logoEnsa, royaumeAr, nameUaeAr, nameSchoolAr, villeSchoolAr, title, body, footer)>
+<!ELEMENT royaumefr (#PCDATA)>
+<!ELEMENT nameUaefr (#PCDATA)>
+<!ELEMENT nameSchoolfr (#PCDATA)>
+<!ELEMENT villeSchoolfr (#PCDATA)>
+<!ELEMENT logoEnsa EMPTY>
+<!ATTLIST logoEnsa uri CDATA #REQUIRED>
+<!ELEMENT royaumeAr (#PCDATA)>
+<!ATTLIST royaumeAr lang CDATA #REQUIRED>
+<!ATTLIST royaumeAr direction CDATA #REQUIRED>
+<!ELEMENT nameUaeAr (#PCDATA)>
+<!ATTLIST nameUaeAr lang CDATA #REQUIRED>
+<!ATTLIST nameUaeAr direction CDATA #REQUIRED>
+<!ELEMENT nameSchoolAr (#PCDATA)>
+<!ATTLIST nameSchoolAr lang CDATA #REQUIRED>
+<!ATTLIST nameSchoolAr direction CDATA #REQUIRED>
+<!ELEMENT villeSchoolAr (#PCDATA)>
+<!ATTLIST villeSchoolAr lang CDATA #REQUIRED>
+<!ATTLIST villeSchoolAr direction CDATA #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT body (header, infoEtudiant)>
+<!ELEMENT header (#PCDATA)>
+<!ELEMENT infoEtudiant (nom, naissance, message, nivAdmis, annee)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT naissance (#PCDATA)>
+<!ELEMENT message (#PCDATA)>
+<!ELEMENT nivAdmis (#PCDATA)>
+<!ELEMENT annee (#PCDATA)>
+<!ELEMENT footer (date, Signature, CodeApogeName, CodeApoge, avis)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT Signature (#PCDATA)>
+<!ELEMENT CodeApogeName (#PCDATA)>
+<!ELEMENT CodeApoge (#PCDATA)>
+<!ELEMENT avis (#PCDATA)>

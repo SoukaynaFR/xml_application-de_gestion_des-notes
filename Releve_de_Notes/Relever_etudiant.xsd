@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://example.com"
+           xmlns="http://example.com"
+           elementFormDefault="qualified">
+
+  <xs:element name="etudiant">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Nom" type="xs:string"/>
+        <xs:element name="Prénom" type="xs:string"/>
+        <xs:element name="Lieu_Naissance" type="xs:string"/>
+        <xs:element name="Date_Naissance">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="day" type="xs:string"/>
+              <xs:element name="month" type="xs:string"/>
+              <xs:element name="year" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="NOTES">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="note" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="note_elm" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="elm_name" type="xs:string" use="required"/>
+                            <xs:attribute name="poid" type="xs:string" use="required"/>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="module_code" type="xs:string" use="required"/>
+                  <xs:attribute name="module_name" type="xs:string" use="required"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="CIN" type="xs:string" use="required"/>
+      <xs:attribute name="CNE" type="xs:string" use="required"/>
+      <xs:attribute name="code_apogée" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

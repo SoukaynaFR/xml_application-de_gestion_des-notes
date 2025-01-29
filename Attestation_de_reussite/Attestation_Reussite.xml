@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<attes  xmlns="http://GINF2AttestaionReussite.org">
+    
+    <royaumefr>Royaume du Maroc</royaumefr>
+    <nameUaefr>Université Abdelmalek Essaâdi</nameUaefr>
+    <nameSchoolfr>Ecole Nationale des Sciences Appliquées </nameSchoolfr>
+    <villeSchoolfr>Tanger</villeSchoolfr>
+    
+    <logoEnsa uri="/images/logo.png"/>
+
+    
+    
+    <title>ATTESTATION  DE  REUSSITE</title>
+    
+    <body>
+        <header>Le Directeur de l'Ecole Natioale des Sciences Appliquées de Tanger atteste que</header>
+        <infoEtudiant>
+            <nom>Mlle Soukayna EL FERCHOUNI</nom>
+            <naissance>née le 20 Septembre à Beni Ahmed Chefchaouen</naissance>
+            <message>a été déclarée admis au niveau</message>
+            <nivAdmis>3° Année Génie Informatique (Systèmes d'information)</nivAdmis>
+            <annee>au titre de l'année universitaire 2025/2026</annee>
+        </infoEtudiant>
+    </body>
+    
+    
+    <footer>
+        <date>Fait à TANGER, le 25 Janvier 2024</date>
+        <Signature>Le Directeur: </Signature>
+        <CodeApogeName>N° étudiant: </CodeApogeName>
+        <CodeApoge>20007042</CodeApoge>
+        
+        <avis>Avis important: il ne peut être délivré qu'un seul exemplaire de cette attestation. Aucun duplicate ne sera fourni. </avis>
+    </footer>
+    
+    
+</attes>

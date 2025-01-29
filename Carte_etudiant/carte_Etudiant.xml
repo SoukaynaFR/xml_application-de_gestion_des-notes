@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<card xmlns="http://studentcard.org">
+    <logoUae uri="logoUae.png"/>
+    <nameUae>Université Abdelmalek Essaâdi</nameUae>
+    <nameSchool>Ecole Nationale des Sciences Appliquées </nameSchool>
+    <villeSchool>Tanger</villeSchool>
+    <logoEnsa uri="ensa.png"/>
+    <title>CARTE D'ETUDIANT</title>
+    <lastName>EL FERCHOUNI</lastName>
+    <firstName>SOUKAYNA</firstName>
+    <codeApoge>20007042</codeApoge>
+    <photo uri="photo.jpg"/>
+    <scanBar uri="scanbar.png"/>
+    <footer>Première Inscription : 2020 / 2021</footer>
+</card>
