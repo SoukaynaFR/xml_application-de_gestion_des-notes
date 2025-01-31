@@ -1,0 +1,168 @@
+<Professors>
+    <Prof>
+        <FirstName>Hassan</FirstName>
+        <LastName>BADIR</LastName>
+        <Email>badir.hassan@uae.ac.ma</Email>
+        <Dept_Attachement>Computer Science</Dept_Attachement>
+        <Phone>N/A</Phone>
+        <Modules>
+            <Module>Software Life Cycle and Agile Methods</Module>
+            <Module>Database Administration and Security</Module>
+            <Module>NoSQL Database</Module>
+            <Module>Big Data</Module>
+            <Module>Datamining</Module>
+            <Module>Datawarehouse</Module>
+            <Module>ERP/CRM</Module>
+            <Module>Cloud Computing  Outsourcing</Module>
+            <Module>Complex Data Management</Module>
+        </Modules>
+    </Prof>
+    <Prof>
+        <FirstName>Houda</FirstName>
+        <LastName>BELMOKADDEM</LastName>
+        <Email>h.belmokadem@uae.ac.ma</Email>
+        <Dept_Attachement>Computer Science</Dept_Attachement>
+        <Phone>N/A</Phone>
+        <Modules>
+            <Module>Real Time System Verification</Module>
+            <Module>Web Development, J2EE</Module>
+            <Module>Boolean Algebra and Numbering Systems</Module>
+            <Module>Processor Microarchitecture</Module>
+            <Module>Assembler Lab</Module>
+            <Module>Introduction to J2EE</Module>
+            <Module>Processor Microarchitectures and ASM</Module>
+            <Module>OOP (Java)</Module>
+            <Module>JAVA</Module>
+        </Modules>
+    </Prof>
+    <Prof>
+        <FirstName>Asaad</FirstName>
+        <LastName>CHAHBOUN</LastName>
+        <Email>achahboun@uae.ac.ma</Email>
+        <Dept_Attachement>Telecommunications</Dept_Attachement>
+        <Phone>N/A</Phone>
+        <Modules>
+            <Module>Digital Communications</Module>
+            <Module>VHDL Programming</Module>
+            <Module>Wireless Sensor Networks</Module>
+            <Module>C Programming</Module>
+            <Module>Voice over IP, PABX</Module>
+            <Module>Systems Administration</Module>
+        </Modules>
+    </Prof>
+    <Prof>
+        <FirstName>Nouha</FirstName>
+        <LastName>CHAHBOUN</LastName>
+        <Email>n.chahboun@yahoo.fr</Email>
+        <Dept_Attachement>Physical</Dept_Attachement>
+        <Phone>N/A</Phone>
+        <Modules>
+            <Module>Electromagnetism</Module>
+            <Module>Electromagnetic Waves in Matter Magnetostatic</Module>
+            <Module>Waveguides</Module>
+        </Modules>
+    </Prof>
+    <Prof>
+        <FirstName>Lotfi</FirstName>
+        <LastName>CHRAIBI</LastName>
+        <Email>lchraibi@uae.ac.ma</Email>
+        <Dept_Attachement>Numerical Analysis and Optimization</Dept_Attachement>
+        <Phone>N/A</Phone>
+        <Modules>
+            <Module>Applied Statistics</Module>
+            <Module>EIA Case Study Projects</Module>
+            <Module>CSR Tools</Module>
+            <Module>CSR: ISO 26000</Module>
+            <Module>Sustainable Development and Environment</Module>
+        </Modules>
+    </Prof>
+    <Prof>
+        <FirstName>Mohammed</FirstName>
+        <LastName>EL HADDAD</LastName>
+        <Email>melhaddad@uaea.ac.ma</Email>
+        <Dept_Attachement>Computer Science</Dept_Attachement>
+        <Phone>N/A</Phone>
+        <Modules>
+            <Module>Data Structure in C</Module>
+            <Module>Object Oriented Programming: JAVA</Module>
+            <Module>J2EE Architectures: Framework and Tools</Module>
+            <Module>Programming in C</Module>
+        </Modules>
+    </Prof>
+    <Prof>
+        <FirstName>Abdelhak</FirstName>
+        <LastName>EZZINE</LastName>
+        <Email>aezzine@uae.ac.ma</Email>
+        <Dept_Attachement>Mathematics, Computer Science</Dept_Attachement>
+        <Phone>N/A</Phone>
+        <Modules>
+            <Module>Audit and Security of Information Systems</Module>
+            <Module>IS Governance</Module>
+            <Module>Algebra 2</Module>
+            <Module>Image Processing</Module>
+        </Modules>
+    </Prof>
+    <Prof>
+        <FirstName>Rachida</FirstName>
+        <LastName>FISSOUNE</LastName>
+        <Email>rfissoune@uae.ac.ma</Email>
+        <Dept_Attachement>Computer Science</Dept_Attachement>
+        <Phone>N/A</Phone>
+        <Modules>
+            <Module>Database Optimization and Quality</Module>
+            <Module>SYSML - UML Object Modeling</Module>
+            <Module>BDR Manipulation and Development (SQL)</Module>
+            <Module>Distributed Data Management</Module>
+        </Modules>
+    </Prof>
+    <Prof>
+        <FirstName>Mohamed</FirstName>
+        <LastName>GHAILANI</LastName>
+        <Email>m.ghailani@uae.ac.ma</Email>
+        <Dept_Attachement>Computer Science</Dept_Attachement>
+        <Phone>N/A</Phone>
+        <Modules>
+            <Module>Statistical Tools</Module>
+            <Module>C Programming</Module>
+            <Module>PLSQL Programming</Module>
+            <Module>Linux Operating System</Module>
+        </Modules>
+    </Prof>
+    <Prof>
+        <FirstName>Mohamed</FirstName>
+        <LastName>MOUSSAOUI</LastName>
+        <Email>m.moussaoui@uae.ac.ma</Email>
+        <Dept_Attachement>Electronics and Telecommunications</Dept_Attachement>
+        <Phone>N/A</Phone>
+        <Modules>
+            <Module>Digital Electronics</Module>
+            <Module>Digital Signal Processing</Module>
+            <Module>WPAN and WLAN Networks</Module>
+            <Module>Next Generation Mobile Networks</Module>
+            <Module>Analog Communications</Module>
+        </Modules>
+    </Prof>
+    <Prof>
+        <FirstName>Hassan</FirstName>
+        <LastName>SAMADI</LastName>
+        <Email>hsamadi@uae.ac.ma</Email>
+        <Dept_Attachement>Mathematical</Dept_Attachement>
+        <Phone>N/A</Phone>
+        <Modules>
+            <Module>Analysis 1</Module>
+            <Module>Single-criteria Decision Support Tools</Module>
+            <Module>Operational Research</Module>
+        </Modules>
+    </Prof>
+    <Prof>
+        <FirstName>Fakhita</FirstName>
+        <LastName>TOUHAMI</LastName>
+        <Email>f.touhami@uae.ac.ma</Email>
+        <Dept_Attachement>Electro-Chemical</Dept_Attachement>
+        <Phone>N/A</Phone>
+        <Modules>
+            <Module>Atomic</Module>
+            <Module>Organic Chemistry</Module>
+        </Modules>
+    </Prof>
+</Professors>
